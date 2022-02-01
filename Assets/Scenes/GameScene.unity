@@ -4954,6 +4954,10 @@ PrefabInstance:
       propertyPath: RestartButton
       value: 
       objectReference: {fileID: 549548421}
+    - target: {fileID: 4327040280732072459, guid: 26134844a4a1ee8459b6bd8068bb39b9, type: 3}
+      propertyPath: bombPrefab
+      value: 
+      objectReference: {fileID: 4756760248407160597, guid: 140204c74d9836b489f17720b572d784, type: 3}
     - target: {fileID: 4327040280732072461, guid: 26134844a4a1ee8459b6bd8068bb39b9, type: 3}
       propertyPath: m_RootOrder
       value: 1
